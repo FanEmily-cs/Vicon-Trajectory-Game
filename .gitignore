@@ -1,0 +1,20 @@
+# Recorded sessions and generated output
+/results/
+/test_results/
+/live_smoke_results/
+
+# Rebuilt locally from sdk/ViconSampler.cs
+/sdk/*.dll
+
+# Duplicate office documents and temporary files
+/README.docx
+~$*
+*.asv
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Local editor settings
+/.vscode/
+/.idea/

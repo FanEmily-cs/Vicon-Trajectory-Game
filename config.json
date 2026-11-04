@@ -1,0 +1,14 @@
+{
+  "SIMULATION_MODE": true,
+  "VICON_SERVER": "localhost",
+  "RIGID_BODY_NAME": "STEM_WAND",
+  "SDK_DIR": "C:\\Program Files\\Vicon\\DataStream SDK\\Win64\\dotNET",
+  "REPLAY_SPEED": 1,
+  "SIM_DURATION": 20,
+  "SIM_LOSS_INTERVAL": [7, 9],
+  "RESULTS_DIR": "results",
+  "START_RADIUS_M": 0.15,
+  "START_COUNTDOWN_SEC": 3,
+  "FINISH_RADIUS_M": 0.15,
+  "FINISH_HOLD_SEC": 0.3
+}
