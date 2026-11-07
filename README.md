@@ -20,7 +20,7 @@
 
 **No Vicon system at hand?** The included simulation runs the entire game on a Windows computer with MATLAB.
 
-## Why try it?
+## Why try?
 
 <table>
   <tr>
