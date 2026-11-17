@@ -93,7 +93,7 @@ The simulated wand follows the route in about **20 seconds**, plus countdown and
 - A calibrated **Vicon camera system** covering the route, with its usual network and power equipment.
 - A **rigid handheld wand with reflective markers**, defined as a rigid body in Tracker.
 - A **marked floor route**, placed at the reference coordinates in the capture area.
-- A Windows x64 computer running MATLAB, with network access to Tracker if it runs on a separate computer.
+- A Windows x64 computer running MATLAB, with network access to Tracker.
 
 ### Software
 
