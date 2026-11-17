@@ -16,7 +16,11 @@
   <a href="docs/SETUP.md">Documentation</a>
 </p>
 
-**Vicon_Trajectory_UM** is a MATLAB game for laboratory demonstrations and student activities. A Vicon system tracks a marker-equipped wand as you follow a blue reference path. When you finish, your movement appears as a red replay, with three distance-error measurements alongside it.
+**Vicon_Trajectory_UM** is an interactive MATLAB-based motion capture application designed for laboratory demonstrations, STEM education, and hands-on learning.
+
+Using a Vicon motion capture system, players follow a predefined floor path with a tracked wand. The application records their movements, replays the captured trajectory, and evaluates path-following accuracy using mean error, RMSE, and maximum error.
+
+A built-in simulation mode allows users to explore the complete gameplay experience without access to Vicon hardware.
 
 **No Vicon system at hand?** The included simulation runs the entire game on a Windows computer with MATLAB.
 
